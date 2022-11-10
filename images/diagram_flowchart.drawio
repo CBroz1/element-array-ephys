@@ -16,6 +16,9 @@
                 <mxCell id="65jm_7ulDt7xcRRwg3B_-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontFamily=Roboto Slab;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BSlab;container=1;labelBackgroundColor=none;fillColor=#808285;fontColor=#FFFFFF;strokeColor=none;verticalAlign=middle;" parent="1" vertex="1">
                     <mxGeometry x="10" y="1210" width="323" height="200" as="geometry"/>
                 </mxCell>
+                <mxCell id="3" value="Acquire Neuropixels data with OpenEphys&lt;br&gt;&amp;nbsp;or SpikeGLX" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontFamily=Roboto Slab;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BSlab;container=1;labelBackgroundColor=none;fillColor=#808285;fontColor=#FFFFFF;strokeColor=none;verticalAlign=middle;" vertex="1" parent="65jm_7ulDt7xcRRwg3B_-30">
+                    <mxGeometry x="21.78" width="279.45" height="200" as="geometry"/>
+                </mxCell>
                 <mxCell id="65jm_7ulDt7xcRRwg3B_-33" value="Enter metadata&lt;br&gt;into pipeline" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontFamily=Roboto Slab;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BSlab;container=1;labelBackgroundColor=none;fillColor=#808285;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="348" y="1210" width="323" height="200" as="geometry"/>
                 </mxCell>
@@ -68,9 +71,6 @@
                 </mxCell>
                 <mxCell id="2" value="Synchronize data modalities&lt;br&gt;&amp;amp; exploratory&lt;br&gt;analysis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontFamily=Roboto Slab;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BSlab;container=0;labelBackgroundColor=none;fillColor=#808285;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="376.25" y="1510" width="266.5" height="200" as="geometry"/>
-                </mxCell>
-                <mxCell id="3" value="Acquire Neuropixels data with OpenEphys&lt;br&gt;&amp;nbsp;or SpikeGLX" style="rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontFamily=Roboto Slab;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BSlab;container=1;labelBackgroundColor=none;fillColor=#808285;fontColor=#FFFFFF;strokeColor=none;verticalAlign=middle;" vertex="1" parent="1">
-                    <mxGeometry x="20.55" y="1210" width="290" height="200" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
