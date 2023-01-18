@@ -1,0 +1,1 @@
+pyopenephys @ git+https://github.com/datajoint-company/pyopenephys.git
